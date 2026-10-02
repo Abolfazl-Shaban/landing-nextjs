@@ -7,7 +7,7 @@ import { motion } from "motion/react";
 
 export default function Home() {
   return (
-    <div className='relative overflow-hidden pt-16 w-full'>
+    <div className='relative pb-30 overflow-hidden pt-16 w-full'>
       <div className='overflow-hidden w-full'>
         <motion.div
           initial={{ opacity: 0 }}
